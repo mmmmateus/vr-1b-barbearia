@@ -1,7 +1,7 @@
 body{
-    background-color: black;
+    background: rgb(43,126,196);
+    background: linear-gradient(90deg, rgba(43,126,196,1) 0%, rgba(92,29,147,1) 47%, rgba(248,0,255,1) 100%);
 }
-
 
 h1 {
     color: lightblue;
