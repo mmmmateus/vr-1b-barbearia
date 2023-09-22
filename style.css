@@ -16,6 +16,8 @@ nav li {
 nav a {
     text-transform: uppercase;
     font-weight: lighter;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
 }
 
 #banner {
