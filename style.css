@@ -8,6 +8,11 @@ body{
     background: linear-gradient(90deg, rgba(43,126,196,1) 0%, rgba(92,29,147,1) 47%, rgba(248,0,255,1) 100%);
 }
 
+nav li {
+    display: inline;
+    padding: 20px;
+}
+
 #banner {
     width: 100%;
 
